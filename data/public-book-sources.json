@@ -1,0 +1,37 @@
+[
+  {
+    "bookSourceName": "中文维基文库（公开文本）",
+    "bookSourceUrl": "https://zh.wikisource.org/",
+    "bookSourceComment": "Wikimedia 维基文库；每个页面的版权与授权状态请以页面说明为准。",
+    "bookSourceType": 0,
+    "enabled": false
+  },
+  {
+    "bookSourceName": "English Wikisource（公开文本）",
+    "bookSourceUrl": "https://en.wikisource.org/",
+    "bookSourceComment": "Wikimedia English Wikisource；使用前请查看具体页面的许可信息。",
+    "bookSourceType": 0,
+    "enabled": false
+  },
+  {
+    "bookSourceName": "Project Gutenberg（公版书）",
+    "bookSourceUrl": "https://www.gutenberg.org/",
+    "bookSourceComment": "以英文公版书为主；公版状态可能因国家或地区不同而不同。",
+    "bookSourceType": 0,
+    "enabled": false
+  },
+  {
+    "bookSourceName": "Standard Ebooks（公版书）",
+    "bookSourceUrl": "https://standardebooks.org/",
+    "bookSourceComment": "以高质量英文公版书电子版为主，站点提供 EPUB 等格式。",
+    "bookSourceType": 0,
+    "enabled": false
+  },
+  {
+    "bookSourceName": "Internet Archive Texts（开放目录）",
+    "bookSourceUrl": "https://archive.org/details/texts",
+    "bookSourceComment": "开放文本目录；具体项目的借阅、下载和版权条件请查看项目页面。",
+    "bookSourceType": 0,
+    "enabled": false
+  }
+]

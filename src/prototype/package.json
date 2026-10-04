@@ -1,0 +1,12 @@
+{
+  "name": "project-053-android-reader-v0",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "lucide": "0.468.0"
+  }
+}
